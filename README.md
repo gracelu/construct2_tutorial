@@ -15,7 +15,6 @@ Once you've opened your Template or Empty Project go ahead and click **"File>Sav
 
 ## Selecting a Platform
 
-### Step 1: 
 First you'll need to export your project. Click **"File>Export project"**
 
 Select HTML5 website unless you have another preference. An error may appear but just click out of it.
@@ -28,7 +27,7 @@ Select **"Tiled Background"** and click **"Insert"**
 Then click inside the Layout area then click **"Open Icon"** to load an image:
 ![](ScreenShots/Tilebackground2.png)
 
-Select **bg.png** from the images folder. (*Note: this may look different on your computer*)
+Select **bg.png** from the images folder.
 ![](ScreenShots/Tilebackground3.png)
 
 Close the preview pop-up window and you'll notice extra space in the Layout area. 
@@ -41,7 +40,6 @@ Select Layout 1 and Update your sizes:
 
 To ensure your background image fills the entire layer, make sure the image dimensions are the same size as the layout dimensions. Click outside the image to see layout dimensions.
 
-Now when you zoom in or out you can only see the Tiled Background. 
 
 ## Adding Layers
 Start by clicking the layers tab on the right:
@@ -258,7 +256,7 @@ Click to **"Add Action"**:
 ![](ScreenShots/Shootbullet3.png)
 
 Select **"Player then"** then **"Next"**
-Scroll down a bit and select **"Spawn another"** then **"Next"**
+Scroll down a bit and select **"Spawn another object"** under Misc then **"Next"**
 
 In the pop-up window click **"Click to choose"**
 Select **"Bullet"** then **"OK"**
@@ -303,17 +301,15 @@ In the Object select click **"Click to choose"**
 Select **"Monster"** then **"OK"**
 Then click **"Done"**
 
-Next we'll do these steps again. 
-As before, click to **"Add Event"**
+Next, click to **"Add Action"**
 
 Select **"Monster"** then **"Next"**
 Scroll down a bit, then select **"Destroy"** then **"Done"**
 
-Next we'll do these steps again. 
-As before, click to **"Add Event"**
+As before, click to **"Add Action"**
 
 Select **"Bullet"** then **"Next"**
-Scroll down a bit, then select **"Spawn another"** then **"Next"**
+Scroll down a bit, then select **"Spawn another object"** then **"Next"**
 
 In the Object select click **"Click to choose"**
 
@@ -367,7 +363,7 @@ Scroll down a bit, then select **"Is outside layout"** then **"Done"**
 Click to **"Add Action"**
 
 Select **"Monster"** then **"Next"**
-Then select **"Set angle towards position"** then **"Next"**
+Then select **"Set angle toward position"** then **"Next"**
 
 Enter Parameters:
 
@@ -475,14 +471,14 @@ Initial Value = 0
 
 Description = (optional)
 
-Constant = (check the box)
+Constant = (do not check the box)
 
 Click **"OK"**
 
 Then scroll up and it should show:
 ![](ScreenShots/Addscore2.png)
 
-Scroll back to the bottom and click **"Add Action"**
+Scroll back to the bottom and click **"Add Action"** under Event 6 (Monster health)
 
 Select **"System"** then **"Next"**
 Select **"Add to"** then **"Next"**
