@@ -16,7 +16,9 @@ Once you've opened your Template or Empty Project go ahead and click **"File>Sav
 ## Going Multiplatform
 
 ### Step 1: 
-First you'll need to export your project. Click **"File>Export"**
+First you'll need to export your project. Click **"File>Export project"**
+
+Select HTML5 website unless you have another preference. An error may appear but just click out of it.
 
 ### Step 2:
 Choose a platform:
