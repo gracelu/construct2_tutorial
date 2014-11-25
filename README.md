@@ -1,4 +1,4 @@
-construct2_tutorial
+Construct 2 Tutorial: Ghost Shooter Game
 ===================
 Construct 2 tutorial to create a ghost-shooter game.
 
