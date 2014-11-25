@@ -621,11 +621,11 @@ Bonus:
 
 If you don't like having to click the keypad to shoot, you can easily change how to shoot by changing the mouse action from left click to another click or to a key on the keyboard. 
 
-Also, if you would like to add sounds, go back to the layout and insert in audio object. .wav files work best. The connect the sound with actions.
+Also, if you would like to add sounds, go back to the layout and insert in audio object. .wav files work best. Then connect the sound with actions.
 
 ----------
 
-# Wrap Up
+## Wrap Up
 
 Thanks for coming to our workshop! Feel free to contact us with any questions/comments and be sure to join the Facebook page for the latest updates!
 
