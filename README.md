@@ -20,7 +20,7 @@ First you'll need to export your project. Click **"File>Export project"**
 
 Select HTML5 website unless you have another preference. An error may appear but just click out of it.
 
-# Creating a Background
+## Creating a Background
 Right-click Inside the Layout area and select **"Insert new object"**
 
 Select **"Tiled Background"** and click **"Insert"**
