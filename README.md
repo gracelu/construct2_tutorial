@@ -5,13 +5,9 @@ Download Construct 2: https://www.scirra.com/
 
 Run Construct 2:
 
-Once it's open click **"File>New"** 
-
+Once application is open click, **"File>New"** 
 Open up a new 'Empty Project' or choose from a variety of 'Templates'
-
-You can even search and filter. 
-
-Here is a breakdown of the Project Environment, which you'll become very familiar: ![](ScreenShots/ProjectLayout.png)
+Here is a breakdown of the Project Environment: ![](ScreenShots/ProjectLayout.png)
 
 Once you've opened your Template or Empty Project go ahead and click **"File>Save"**
 
