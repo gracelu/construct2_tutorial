@@ -13,36 +13,15 @@ Here is a breakdown of the Project Environment: ![](ScreenShots/ProjectLayout.pn
 
 Once you've opened your Template or Empty Project go ahead and click **"File>Save"**
 
-## Going Multiplatform
+## Selecting a Platform
 
 ### Step 1: 
 First you'll need to export your project. Click **"File>Export project"**
 
 Select HTML5 website unless you have another preference. An error may appear but just click out of it.
 
-### Step 2:
-Choose a platform:
-
-Web (HTML5 website, etc.)
-
-Mobile (PhaseGap, WP8, etc.)
-
-Desktop (Windows 8)
-
-### Step 3:
-Publish anywhere:
-
-HTML5 website --> web server
-
-Scirra Arcade
-
-WP8 or Windows 8
-PhoneGap --> iOS or Android
-
-# Creating Tiled Backgrounds
+# Creating a Background
 Right-click Inside the Layout area and select **"Insert new object"**
-
-![](ScreenShots/tilebackground1.png)
 
 Select **"Tiled Background"** and click **"Insert"**
 
@@ -54,15 +33,13 @@ Select **bg.png** from the images folder. (*Note: this may look different on you
 
 Close the preview pop-up window and you'll notice extra space in the Layout area. 
 
-## Special Note:
-Remember you need to know your X and Y. 
-![](ScreenShots/Graphs.png)
-
 Now update your tile positions:
 ![](ScreenShots/Tilebackground4.png)
 
 Select Layout 1 and Update your sizes:
 ![](ScreenShots/Tilebackground5.png)
+
+To ensure your background image fills the entire layer, make sure the image dimensions are the same size as the layout dimensions. Click outside the image to see layout dimensions.
 
 Now when you zoom in or out you can only see the Tiled Background. 
 
@@ -70,13 +47,9 @@ Now when you zoom in or out you can only see the Tiled Background.
 Start by clicking the layers tab on the right:
 ![](ScreenShots/Layers1.png)
 
-Click the **"Edit icon"** (pencil) to rename Layer 0. Rename it to *"Background"*.
+Click the **"Edit icon"** (pencil) to rename Layer 0. Rename it to *"Background"*. Lock this layer by clicking the lock icon.
 
-Add a new layer by pressing the **"Plus Sign Icon"**
-
-Then, again, click the **"Edit icon"** (pencil) to rename the Layer. Rename it to *"Main"* and click the **"Lock Symbol"**
-
-That's it for layers!
+Add a new layer by pressing the **"Plus Sign Icon"**. Rename it to *"Main"*.
 
 ## Mouse & Keyboard Support (aka Hidden Objects)
 
@@ -100,7 +73,7 @@ Notice both Mouse and Keyboard are added to objects:
 
 As before, right click and select **"Insert new object"**
 
-Select the **"Sprite Icon"** then click **"Insert"**
+Select the **"Sprite"** then click **"Insert"**
 
 Click inside Layout area:
 ![](ScreenShots/Sprites1.png) then click the **"Open Icon (folder)"** to load an image.
@@ -116,7 +89,7 @@ For this game we're going to add Monsters! Very similar to adding playable Sprit
 
 As before, right click and select **"Insert new object"**
 
-As before, select the **"Sprite Icon"** then click **"Insert"**
+As before, select the **"Sprite"** then click **"Insert"**
 
 Click inside Layout area:
 ![](ScreenShots/Sprites1.png) then click the **"Open Icon (folder)"** to load an image.
@@ -131,7 +104,7 @@ We'll be adding in bullets and explosions!
 
 As before, right click and select **"Insert new object"**
 
-Select the **"Sprite Icon"** then click **"Insert"**
+Select the **"Sprite"** then click **"Insert"**
 
 Click inside Layout area:
 ![](ScreenShots/Sprites1.png) then click the **"Open Icon (folder)"** to load an image.
@@ -143,7 +116,7 @@ Close the pop-up window and you'll see your Bullet in the Layout window.
 
 As before, right click and select **"Insert new object"**
 
-Select the **"Sprite Icon"** then click **"Insert"**
+Select the **"Sprite"** then click **"Insert"**
  
 Click inside Layout area then click the **"Open Icon (folder)"** to load an image.
 
@@ -192,9 +165,9 @@ Choose your Movement:
 
 Select **"8 Direction"** and then click **"Add"**
 
-Repeat the steps above (the last 4) but this time select **"Scroll To"** from the Movement selector.
+Repeat to select **"Scroll To"** from the Movement selector.
 
-Repeat the same steps above but this time select **"Bound to Layout"** from the Movement selector.
+Now add **"Bound to Layout"** from the Movement selector.
 
 Then close the pop-up. 
 
@@ -256,16 +229,16 @@ Right-click then **"Add Event"**:
 Select **"System"** then **"Next"**
 Select **"Every Tick"** then **"Done"**
  Click to **"Add Action"**:
-![](ScreenShots/UserInput4.png)
+![](ScreenShots/Userinput4.png)
 
 Select **"Player"** then **"Next"**
 Select **"Set angle toward position"** then **"Next"**
 
 Enter Parameters:
-![](ScreenShots/UserInput5.png)
+![](ScreenShots/Userinput5.png)
 
 Should end up looking like this:
-![](ScreenShots/UserInput6.png)
+![](ScreenShots/Userinput6.png)
 
 ## Spawning Other Objects
 
