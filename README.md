@@ -617,9 +617,11 @@ Should look like this:
 
 # Wrap Up
 
-Find more Construct 2 tutorials here:[http://www.scirra.com/tutorials ](http://www.scirra.com/tutorials )
+Thanks for coming to our workshop! Feel free to contact us with any questions/comments and be sure to join the Facebook page for the latest updates!
 
-Check out the Construct 2 Facebook Group here:[https://www.facebook.com/groups/construct2devs/ ](https://www.facebook.com/groups/construct2devs/ )
+Find more Construct 2 tutorials here: [http://www.scirra.com/tutorials ](http://www.scirra.com/tutorials )
+
+Check out the Construct 2 Facebook Group here: [https://www.facebook.com/groups/construct2devs/ ](https://www.facebook.com/groups/construct2devs/ )
 
 Check out the Construct 2 forums for great threads here: [https://www.scirra.com/forum/ ](https://www.scirra.com/forum/ )
 
