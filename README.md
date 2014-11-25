@@ -1,5 +1,6 @@
 Construct 2 Tutorial: Ghost Shooter Game
 ===================
+Microsoft Student Partner Technical Workshop at UChicago
 
 Download Construct 2: https://www.scirra.com/
 
