@@ -1,10 +1,9 @@
 Construct 2 Tutorial: Ghost Shooter Game
 ===================
-Construct 2 tutorial to create a ghost-shooter game.
 
 Download Construct 2: https://www.scirra.com/
 
-Run Construct 2
+Run Construct 2:
 
 Once it's open click **"File>New"** 
 
