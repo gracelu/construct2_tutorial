@@ -28,7 +28,7 @@ Select **"Tiled Background"** and click **"Insert"**
 Then click inside the Layout area then click **"Open Icon"** to load an image:
 ![](ScreenShots/Tilebackground2.png)
 
-Select **bg.png** from the images folder.
+Select **bg.png** from the images folder. (Also feel free to choose your own images!)
 ![](ScreenShots/Tilebackground3.png)
 
 Close the preview pop-up window and you'll notice extra space in the Layout area. 
@@ -613,6 +613,16 @@ Select **"Destroy"** then **"Done"**
 Should look like this:
 ![](ScreenShots/Destroyplayer1.png)
 
+## Playing your game
+
+Ready to play? Click the play button on the top of the screen to launch your game. If you chose HTML as the platform, a browser will open up with your game. To play, simply move the player around with the direction keys, shoot by clicking on the keypad, and rotate the player by moving your finger on the keyboard!
+
+Bonus:
+
+If you don't like having to click the keypad to shoot, you can easily change how to shoot by changing the mouse action from left click to another click or to a key on the keyboard. 
+
+Also, if you would like to add sounds, go back to the layout and insert in audio object. .wav files work best. The connect the sound with actions.
+
 ----------
 
 # Wrap Up
@@ -625,7 +635,7 @@ Check out the Construct 2 Facebook Group here: [https://www.facebook.com/groups/
 
 Check out the Construct 2 forums for great threads here: [https://www.scirra.com/forum/ ](https://www.scirra.com/forum/ )
 
-## Created By
+## Original Tutorial Created By
 Shahed Chowdhuri
 
 ### Contact
