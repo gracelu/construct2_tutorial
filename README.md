@@ -638,6 +638,8 @@ Check out the Construct 2 forums for great threads here: [https://www.scirra.com
 ## Original Tutorial Created By
 Shahed Chowdhuri
 
+with edits by Grace Lu
+
 ### Contact
 
 Web: OnekSoft.com
